@@ -1,0 +1,5 @@
+name: binderPuzzle
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling
